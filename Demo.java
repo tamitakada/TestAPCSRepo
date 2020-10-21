@@ -8,7 +8,7 @@ public class Demo {
     if (args.length != 0) param = Integer.parseInt(args[0]);
     printLoop(param);
 
-    System.out.println(generateTests());
+  //  System.out.println(generateTests());
   }
 
   public static boolean generateTests() {
